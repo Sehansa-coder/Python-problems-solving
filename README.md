@@ -1,5 +1,6 @@
 # Python-problems-solving-
-This repository contains Python problems I solve to improve my logical thinking and Python fundamentals
+This repository contains Python problems I solve to improve my logical thinking and Python fundamentals.
+HackerRank questions included.
 
 ## Topics
 -Variables
