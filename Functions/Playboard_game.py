@@ -1,4 +1,5 @@
 # ------------------ By Codewars-------------
+# source: https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
 
 # Problem:
 # In this game, the hero moves from left to right. The player rolls the die and moves the number of spaces indicated by the die two times.
