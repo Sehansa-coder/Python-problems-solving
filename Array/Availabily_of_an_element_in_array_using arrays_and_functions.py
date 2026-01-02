@@ -1,3 +1,5 @@
+# By Codewars
+# source:https://www.codewars.com/kata/5703c093022cd1aae90012c9
 # problem:
 # Provided is a function which accepts two parameters in the following order: array, element and returns the index of 
 # the element if found and "Not found" otherwise. Your task is to shorten the code as much as possible in order to meet the character count 
