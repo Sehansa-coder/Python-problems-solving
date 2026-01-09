@@ -8,7 +8,7 @@
 
 
 def concatenate(list1,list2):
-
+    # create an empty lists to store the concatenated list items
     answer_list=[]
     # find the smaller length of the two lists
     # this ensures we only loop over indexes that exist in both lists
